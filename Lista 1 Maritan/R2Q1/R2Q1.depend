@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1534802270 source:d:\lucas\documents\programação\lista 1 maritan\r2q1\main.cpp
+	<iostream>
+
+1534803692 source:d:\lucas\documents\programação\lista 1 maritan\r2q1\src\pedido.cpp
+	"Pedido.h"
+
+1534803471 d:\lucas\documents\programação\lista 1 maritan\r2q1\include\pedido.h
+	<string>
+
+1534805151 source:d:\lucas\documents\programação\lista 1 maritan\r2q1\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+
+1534805080 d:\lucas\documents\programação\lista 1 maritan\r2q1\include\mesaderestaurante.h
+	"Pedido.h"
+
+1534805450 source:d:\lucas\documents\programação\lista 1 maritan\r2q1\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+
+1534805442 d:\lucas\documents\programação\lista 1 maritan\r2q1\include\restaurantecaseiro.h
+	"MesaDeRestaurante.h"
+

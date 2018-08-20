@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1534466707 source:d:\lucas\documents\programação\lista 1 maritan\q5\main.cpp
+	<iostream>
+	"Relogio.h"
+
+1534466763 source:d:\lucas\documents\programação\lista 1 maritan\q5\src\relogio.cpp
+	"Relogio.h"
+
+1534466235 d:\lucas\documents\programação\lista 1 maritan\q5\include\relogio.h
+

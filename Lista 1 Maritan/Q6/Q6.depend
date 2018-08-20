@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1534470088 source:d:\lucas\documents\programação\lista 1 maritan\q6\src\televisao.cpp
+	"Televisao.h"
+
+1534470088 d:\lucas\documents\programação\lista 1 maritan\q6\include\televisao.h
+
+1534468898 source:d:\lucas\documents\programação\lista 1 maritan\q6\main.cpp
+	<iostream>
+	"Televisao.h"
+

@@ -1,0 +1,6 @@
+1) Classe é um tipo personalizavel de variavel que possui atributos e metodos, objeto é a variavel que vai portar os atributos e metodos da classe.
+2) O construtor serve para inicializar a variável, ele é utilizado somente na declaração da mesma e pode ser personalizado para atender seus critérios.
+Ele é o responável por "transformar" a variavel em um objeto da classe.
+3) É responsavel por fazer a alocação dinamica de uma variavel na memoria, ou seja, uma alocação que ocorre durante a execução do programa e que é independente do escopo do metodo.
+Quando você a utiliza, o endereço de um bloco de memória é guardado em um ponteiro, podendo ser atribuido a outra variavel ou ser apagado.
+4) O principal beneficio é poder esconder do usuário final os detalhes de implementação do codigo, permitindo, assim, maior segurança e integridade ao codigo.
