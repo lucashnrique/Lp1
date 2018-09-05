@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1536106651 source:d:\lucas\documents\programação\lista 1 maritan\q5r5\main.cpp
+	<iostream>
+	"TrabalhadorPorHora.h"
+	"TrabalhadorAssalariado.h"
+
+1536105474 source:d:\lucas\documents\programação\lista 1 maritan\q5r5\src\trabalhador.cpp
+	"Trabalhador.h"
+
+1536105474 d:\lucas\documents\programação\lista 1 maritan\q5r5\include\trabalhador.h
+	<string>
+
+1536105915 source:d:\lucas\documents\programação\lista 1 maritan\q5r5\src\trabalhadorporhora.cpp
+	"TrabalhadorPorHora.h"
+
+1536106085 d:\lucas\documents\programação\lista 1 maritan\q5r5\include\trabalhadorporhora.h
+	"Trabalhador.h"
+
+1536106051 source:d:\lucas\documents\programação\lista 1 maritan\q5r5\src\trabalhadorassalariado.cpp
+	"TrabalhadorAssalariado.h"
+
+1536106065 d:\lucas\documents\programação\lista 1 maritan\q5r5\include\trabalhadorassalariado.h
+	"Trabalhador.h"
+

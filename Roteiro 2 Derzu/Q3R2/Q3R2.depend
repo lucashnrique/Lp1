@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1514140574 source:d:\lucas\documents\programação\lista 1 maritan\q3r2\main.cpp
+	<iostream>
+
+1536029040 source:d:\lucas\documents\programação\lista 1 maritan\q3r2\src\funcionario.cpp
+	"Funcionario.h"
+
+1536029607 d:\lucas\documents\programação\lista 1 maritan\q3r2\include\funcionario.h
+	<string>
+
+1536029670 source:d:\lucas\documents\programação\lista 1 maritan\q3r2\src\consultor.cpp
+	"Consultor.h"
+
+1536029764 d:\lucas\documents\programação\lista 1 maritan\q3r2\include\consultor.h
+	"Funcionario.h"
+
